@@ -2,7 +2,6 @@ import pandas as pd
 import os
 import sys
 #os and sys are for interacting with files
-#we dont necessarily need them but she adds them to all
 
 #--------
 #data from blahblahblah
